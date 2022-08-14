@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-data-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Madhur Joshi
+Implementation-Vendor-Id: com.backend
+Build-Jdk: 1.8.0_333
+Implementation-URL: https://spring.io/projects/spring-boot/spring-data
+ -jpa
+Created-By: Maven Integration for Eclipse
+
